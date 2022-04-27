@@ -10,7 +10,11 @@
 
 
 ## Site
-![ANNALOW](https://user-images.githubusercontent.com/85363903/165617742-2074880d-2aae-4635-b7dc-7266eb6f01fd.gif)
+<div align="center">
+
+   ![ANNALOW](https://user-images.githubusercontent.com/85363903/165617742-2074880d-2aae-4635-b7dc-7266eb6f01fd.gif)
+
+</div>
 
 ## Curso:
 <strong><a href="https://www.udemy.com/course/web-completo/">Desenvolvimento Web Completo 2022</a></strong>
